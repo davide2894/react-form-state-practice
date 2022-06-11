@@ -1,0 +1,26 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+    &__input,
+    &__textarea,
+    &__checkboxContainer,
+    &__radioFieldset,
+    &__radioFieldset {
+        margin-bottom: 10px;
+    }
+
+    &__input,
+    &__checkboxContainer,
+    &__radioFieldset,
+    &__selectContainer {
+        text-align: left;
+    }
+
+    &__select {
+        margin: 5px auto 20px;
+    }
+}
