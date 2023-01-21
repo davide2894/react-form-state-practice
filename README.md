@@ -10,4 +10,3 @@ Check out this web page online at https://davide2894.github.io/react-form-state-
 Execute in development mode (with file watch): 'npm start'.
 
 Execute in production mode (with generation of a single build): 'npm run build'
-Help
