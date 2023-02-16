@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-learning-login-form/static/css/main.4572471d.css",
-    "main.js": "/react-learning-login-form/static/js/main.d0881e5e.js",
-    "static/js/787.d878469a.chunk.js": "/react-learning-login-form/static/js/787.d878469a.chunk.js",
-    "index.html": "/react-learning-login-form/index.html",
-    "main.4572471d.css.map": "/react-learning-login-form/static/css/main.4572471d.css.map",
-    "main.d0881e5e.js.map": "/react-learning-login-form/static/js/main.d0881e5e.js.map",
-    "787.d878469a.chunk.js.map": "/react-learning-login-form/static/js/787.d878469a.chunk.js.map"
+    "main.css": "/react-form-state-practice/static/css/main.4572471d.css",
+    "main.js": "/react-form-state-practice/static/js/main.59416b09.js",
+    "static/js/787.f76a86db.chunk.js": "/react-form-state-practice/static/js/787.f76a86db.chunk.js",
+    "index.html": "/react-form-state-practice/index.html",
+    "main.4572471d.css.map": "/react-form-state-practice/static/css/main.4572471d.css.map",
+    "main.59416b09.js.map": "/react-form-state-practice/static/js/main.59416b09.js.map",
+    "787.f76a86db.chunk.js.map": "/react-form-state-practice/static/js/787.f76a86db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4572471d.css",
-    "static/js/main.d0881e5e.js"
+    "static/js/main.59416b09.js"
   ]
 }
